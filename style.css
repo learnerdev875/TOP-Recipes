@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0; 
+box-sizing: border-box;
+}
+
+body{
+    font-family: 'Courier New', sans-serif;
+    padding-top:2rem;
+    background-color:#FBFFDC;
+}
+
+img{
+    width:50%;
+    height: auto;
+    display: block;
+    margin:0 auto;
+    margin-bottom: 3rem;
+}
+
+.recipes-list{
+    padding-left:2rem;
+    max-width:300px;
+    margin: 0 auto;
+}
+ul li{
+        list-style-type: circle;
+        margin-bottom: 1rem;
+}
+
+a{
+    font-size:20px;
+    color:#79E0EE;
+    text-transform: uppercase;
+}
+h1{
+    text-align: center;
+    font-size:100px;
+    color:#79E0EE;
+    margin-bottom: 1rem;
+}
+
